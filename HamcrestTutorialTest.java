@@ -51,6 +51,7 @@ public class HamcrestTutorialTest {
 	public void comprobarDeCuatroFormasCadenasIguales() {
 		String expected = "Expected";
 		String actual = "Expected";
+		String nuevo = "as";
 		
 		assertEquals(expected, actual);
 		assertThat(actual, equalToIgnoringCase(expected));
