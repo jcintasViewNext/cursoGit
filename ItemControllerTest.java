@@ -54,6 +54,7 @@ public class ItemControllerTest {
 	 * 
 	 * - Se invoca el stub generado. 
 	 * - Se ha recuperado un array con Peonza y Muñeca como elementos contenidos.
+	 * Nuevo cambio
 	 */
 	@Test
 	public void comprobarObtencionExitosaDeTodosLosItems() {
